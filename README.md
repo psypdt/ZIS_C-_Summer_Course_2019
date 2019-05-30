@@ -40,10 +40,14 @@ This repo holds all the necessary information for students who are interested in
 
 
 
-## What do you need during classes?
+## What materials are required for classes?
 - If the school supplied you with a laptop then thats all you need.
 
-- If you have an Mac or a machine running Linux or Unix, feel free to use that instead of the school computer.
+- If you have an Mac or a machine running Linux/Unix, feel free to use that instead of the school computer.
+
+- If you wish to take notes then bring a pen and paper, but we will make all the slides available so you can reference them later.
+
+
 
 
 
