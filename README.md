@@ -41,4 +41,4 @@ This repo holds all the necessary information for students who are interested in
 
 
 
-Note: It may look empty now but rest assured that content will be added over the next few days.
+Note: This page will be updated over the next couple days. 
