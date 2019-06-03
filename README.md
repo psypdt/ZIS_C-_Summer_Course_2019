@@ -51,4 +51,13 @@ This repo holds all the necessary information for students who are interested in
 
 
 
+## Potential inconveniences  
+
+- I clicked the powerpoint here on the website and all I saw was: `(Sorry about that, but we can’t show files that are this big right now.)`.
+  - `Solution:` This is just a side effect of using Github, the powerpoint is there, just click on the `Download` button on the left and the powerpoint (`.pptx` file) will be downloaded.   
+
+
+
+
+
 `Note:` This page will be updated over the next couple days. You will be able to access the presentations and any example code/ solutions that we construct during the course.
