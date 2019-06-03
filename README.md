@@ -1,5 +1,5 @@
 # ZIS C++ Summer Course 2019
-Hi and welcome to the C++ Summer course resource page. From this page you will be able to access the presentations and any example code/ solutions that we construct during the course.
+Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this page you will be able to access the presentations and any example code/ solutions that we construct during the course.
 
 
 
@@ -61,11 +61,21 @@ Hi and welcome to the C++ Summer course resource page. From this page you will b
 
 
 
+## A little bit about codeboard.io
+- `Codeboard.io` is an online development tool used to write programs, we will be using it to write C++
+
+- `Codeboard.io` allows us to run code on a server, which is nice since you won't need to install anything on your machine.
+
+- Because were running programs remotely (not on our own computer) we don't need to worry about things going wrong on our machine (though this will never be the case given the content that we will cover)
+
+
+
+
 
 ## Potential inconveniences when using this site
 
-- I clicked the powerpoint here on the website and all I saw was: `(Sorry about that, but we can’t show files that are this big right now.)`.
-  - `Solution:` This is just a side effect of using Github, the powerpoint is there, just click on the `Download` button on the left and the powerpoint (`.pptx` file) will be downloaded.   
+- `Issue:` I clicked the powerpoint here on the website and all I saw was: `(Sorry about that, but we can’t show files that are this big right now.)`.
+  - `Solution:` This is just a side effect of using Github, the powerpoint is there, just click on the `Download` button on the right and the powerpoint (`.pptx` file) will be downloaded.   
 
 
 
