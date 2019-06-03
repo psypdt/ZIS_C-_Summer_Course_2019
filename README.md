@@ -18,7 +18,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 ## What to expect from the class dynamic
 - Lots of programming. Learning by programming is one of the best way to further your knowledge (and it's loads of fun).  
 
-- Interactive classes. We will work together to find solutions and different ways of approaching a problem.
+- Classes are designed to be interactive. We will work together to find solutions and different ways of approaching a problem.
 
 - Asking questions is by far the best thing to do if something is unclear, so we will always encourage you to ask if you don't understand something.
 
