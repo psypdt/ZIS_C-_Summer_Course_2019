@@ -42,7 +42,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 
 ## What can you do in advanced?
-- We will be using the https://codeboard.io platform to do our programming, signing up before starting the course would be great, but we will allocate some time to do this before we get started.
+- We will be using the [`Codeboard.io`](https://codeboard.io) platform to do our programming, signing up before starting the course would be great, but we will allocate some time to do this before we get started.
 
 - There is no need to study any advanced mathematics, as long as you are confident with simple addition, subtraction multiplication and division you will be fine. Regardless of this, all uses of maths will be explained regardless so that nobody gets confused.
 
@@ -62,11 +62,11 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 
 ## A little bit about codeboard.io
-- `Codeboard.io` is an online development tool used to write programs, we will be using it to write C++
+- [`Codeboard.io`](https://codeboard.io) is an online development tool used to write programs, we will be using it to write C++
 
-- `Codeboard.io` allows us to run code on a server, which is nice since you won't need to install anything on your machine.
+- [`Codeboard.io`](https://codeboard.io) allows us to run code on a server, which is nice since you won't need to install anything on your machine.
 
-- Because were running programs remotely (not on our own computer) we don't need to worry about things going wrong on our machine (though this will never be the case given the content that we will cover)
+- Because we are running programs remotely (not on our own computer) we don't need to worry about things going wrong and crashing on our machine (Severe crashes <b>will never be the case</b> given the content that we will cover).
 
 
 
