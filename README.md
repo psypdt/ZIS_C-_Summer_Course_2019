@@ -51,7 +51,7 @@ Hi and welcome to the C++ Summer course resource page. From this page you will b
 ## What materials are required for classes?
 - If the school supplied you with a laptop then thats all you need.
 
-- If you have a `MAC` or a machine running `Linux/Unix`, feel free to use that instead of the school computer. 
+- If you have a `Mac laptop` or a machine running `Linux/Unix`, feel free to use that instead of the school computer. 
   - Personaly `I would recommend using the Mac` since you will not be dependent on codeboard.io (but it's up to you)
 
 - If you have a personal `Windows` based computer you can still use it, but you may as well use the school laptops (if they are provided)
@@ -62,7 +62,7 @@ Hi and welcome to the C++ Summer course resource page. From this page you will b
 
 
 
-## Potential inconveniences  
+## Potential inconveniences when using this site
 
 - I clicked the powerpoint here on the website and all I saw was: `(Sorry about that, but we can’t show files that are this big right now.)`.
   - `Solution:` This is just a side effect of using Github, the powerpoint is there, just click on the `Download` button on the left and the powerpoint (`.pptx` file) will be downloaded.   
@@ -71,4 +71,4 @@ Hi and welcome to the C++ Summer course resource page. From this page you will b
 
 
 
-`Note:` This page will be updated over the next couple days. Y
+`Note:` This page will be updated over the next couple days. 
