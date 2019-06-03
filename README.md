@@ -51,4 +51,4 @@ This repo holds all the necessary information for students who are interested in
 
 
 
-Note: This page will be updated over the next couple days. 
+`Note:` This page will be updated over the next couple days. You will be able to access the presentations and any example code/ solutions that we construct during the course.
