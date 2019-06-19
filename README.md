@@ -97,10 +97,10 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
     - Change this file to make it look as follows: 
     ```c
     cmake_minimum_required(VERSION 3.13)
-    project(`myProject`)
+    project(myProject)
     set(CMAKE_CXX_STANDARD 14)
     set(SOURCE_FILES main.cpp)
-    add_executable(`myProject` ${PROJECT_FILES})
+    add_executable(myProject ${PROJECT_FILES})
  
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
