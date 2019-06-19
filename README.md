@@ -79,6 +79,31 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 
 
+## Installing Clion on Windows
+- `Installing the IDE:` Go to [`JetBrains`](https://www.jetbrains.com/clion/) and install Clion
+  - Follow the instalation guide and just go with the default for everything
+  
+ - `Installing the necessary dependencies:` Visit the [`THIS PAGE`](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW) and follow the `MinGW` section. You may IGNORE ALL OTHER SECTIONS!
+ 
+ - `Configuring Clion`: Once you have installed all the relevant packages (as listed in the instructions), navigate into the `settings` section (accessible by pressing `ctrl+alt+s`)
+  - Navigate into `Build, Execution, Deployment` -> `Toolchains`
+  - Go to [`THIS PAGE`](https://www.jetbrains.com/help/clion/how-to-create-toolchain-in-clion.html) and follow the instructions provided.
 
-
+- You should now be ready to start creating projects. 
+  - For sanity, create a new project in any directory you see fit.
+  - Name the project whatever you like, say `myProject` for example.
+  - Create a new `C++ Executable` using the `C++ 14` language standard (this should be a default)
+  - Once you have done this you will see a file called `CMakeList.txt`. 
+    - Change this file to make it look as follows: 
+    ```c
+    cmake_minimum_required(VERSION 3.13)
+    project(`myProject`)
+    set(CMAKE_CXX_STANDARD 14)
+    set(SOURCE_FILES main.cpp)
+    add_executable(`myProject` ${PROJECT_FILES})
+ 
+  - Once you have done this you should be able to run the code in the `main.cpp` 
+  
+  
+  
 `Note:` This page will be updated over the next couple days. 
