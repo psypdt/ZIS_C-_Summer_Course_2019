@@ -81,9 +81,9 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 ## Installing Clion on Windows
 - `Installing the IDE:` Go to [`JetBrains`](https://www.jetbrains.com/clion/) and install Clion
-  - Follow the instalation guide and just go with the default for everything
+  - Follow the installation guide and just go with the default settings for everything
   
- - `Installing the necessary dependencies:` Visit the [`THIS PAGE`](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW) and follow the `MinGW` section. You may IGNORE ALL OTHER SECTIONS!
+ - `Installing the necessary dependencies:` Visit  [`THIS PAGE`](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW) and follow the `MinGW` section. You may IGNORE ALL OTHER SECTIONS!
  
  - `Configuring Clion`: Once you have installed all the relevant packages (as listed in the instructions), navigate into the `settings` section (accessible by pressing `ctrl+alt+s`)
   - Navigate into `Build, Execution, Deployment` -> `Toolchains`
