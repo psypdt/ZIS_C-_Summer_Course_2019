@@ -10,7 +10,7 @@ using namespace std;
 // You may print the reversed word in this function, but you are not reqired to;
 
 
-string reverse_word(string word)
+string reverse_word(string input)
 {
     // insert code here
 }
