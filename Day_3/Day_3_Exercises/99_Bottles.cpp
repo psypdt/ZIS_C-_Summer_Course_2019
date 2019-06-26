@@ -1,6 +1,9 @@
 #include <cstdlib>
 #include <iostream>
 
+// NOTE: For every project following, use the C++14 standard. This can be selected when creating a project!
+
+
 
 // Create a function that will follow the following pattern:
 /*

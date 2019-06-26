@@ -4,7 +4,7 @@
 using namespace std;
 
 
-
+//NOTE: Use the C++14 standard
 // Create a function that takes will reverse a word that it's given
 // Hint: You can use the .length() function to determine how long the word is
 // You may print the reversed word in this function, but you are not reqired to;

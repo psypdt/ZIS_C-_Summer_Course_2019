@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-
+// NOTE: Use the C++14 standard
 // Construct a function that will print the following :
 /*
     *****
