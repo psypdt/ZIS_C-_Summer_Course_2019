@@ -105,11 +105,43 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
   
-  ## Windows PowerShell
+  ## Windows PowerShell (Tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`)
   - If you are trying to run your program, and use the `system()` command, then you will want to know the following commands:
-  - `ls`: This command will LIST all the directories (folders) in the current directory 
+    - `Note:` You can execute these commands by typing in the command (say `cd` for example), by giving the required arguments (`cd` requires that you give it a folder/directory to move into) and then pressing `Enter` on your keyboard.
+    
+    - `Note:` DO NOT TYPE OUT THE `PS C:\Users\you>` part, you only need to type the commands specified.
+    - `Simply:` Dont type anything that appears before the `>` symbol. 
+    
+  - `ls`: This command will LIST all the directories (folders) in the current directory. `ls` takes NO ARGUMENTS.
     - `PS C:\Users\you> ls` should yield something like:
       ```c
+      d-r---       21/06/2019     14:45                Contacts
+      d-r---       21/06/2019     18:26                Desktop
+      d-r---       21/06/2019     14:45                Documents
+      d-r---       21/06/2019     14:45                Downloads
+      d-r---       21/06/2019     14:45                Favorites
       
-  - `cd`: The `cd` command stands for "Change directory"
+  - `cd`: The `cd` command stands for "Change directory". `cd` expects the directory that you want to change to as the argument.
   
+    - If you want to move into the `Desktop` directory, then do `PS C:\Users\you> cd Desktop`. This should yield the following:
+      `PS C:\Users\you\Desktop>`
+      
+     - If you with to get out of a directory again (say we want to get out of the `Desktop` directory), then just run the following:  `PS C:\Users\you\Desktop> cd ..`
+     
+        - This should yeild `PS C:\Users\you>`, since we have gone out of the `Desktop` directory
+      
+  - `./`: This is command that you use to run an executable file (`.exe`). `./` takes the name of the executable as the argument
+  
+      - If you navigate into a directory where you see a `.exe` file, run `./execName.exe` (this is just an example)
+      
+      - `Note:` Your `.exe` file may not have the name `execName`, if your `.exe` file is called `MyAPP.exe`, the you would do `./MyAPP.exe`
+      
+      
+   - `pwd`: This command just shows you what directory you are currently in. This command takes NO ARGUMENTS.
+      - If you were in the `Desktop` directory and did: `PS C:\Users\you\Desktop> pwd` then you would get the following:
+        ```c
+        Path
+        ----
+        C:\Users\you\Desktop
+        
+        
