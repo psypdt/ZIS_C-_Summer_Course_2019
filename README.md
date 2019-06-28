@@ -105,7 +105,9 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
   
-  ## Windows PowerShell (Tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`)
+  ## Windows PowerShell 
+  - `Note:` This tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`
+  
   - If you are trying to run your program, and use the `system()` command, then you will want to know the following commands:
     - `Note:` You can execute these commands by typing in the command (say `cd` for example), by giving the required arguments (`cd` requires that you give it a folder/directory to move into) and then pressing `Enter` on your keyboard.
     
