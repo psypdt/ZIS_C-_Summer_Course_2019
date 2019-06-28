@@ -105,5 +105,11 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
   
+  ## Windows PowerShell
+  - If you are trying to run your program, and use the `system()` command, then you will want to know the following commands:
+  - `ls`: This command will LIST all the directories (folders) in the current directory 
+    - `PS C:\Users\you> ls` should yield something like:
+      ```c
+      
+  - `cd`: The `cd` command stands for "Change directory"
   
-`Note:` This page will be updated over the next couple days. 
