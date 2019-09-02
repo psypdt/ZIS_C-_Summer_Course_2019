@@ -87,10 +87,10 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
  - `Installing the necessary dependencies:` Visit  [`THIS PAGE`](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW) and follow the `MinGW` section. You may IGNORE ALL OTHER SECTIONS!
  
  - `Configuring Clion`: Once you have installed all the relevant packages (as listed in the instructions), navigate into the `settings` section (accessible by pressing `ctrl+alt+s`)
-  - Navigate into `Build, Execution, Deployment` -> `Toolchains`
-  - Go to [`THIS PAGE`](https://www.jetbrains.com/help/clion/how-to-create-toolchain-in-clion.html) and follow the instructions provided.
+    - Navigate into `Build, Execution, Deployment` -> `Toolchains`
+    - Go to [`THIS PAGE`](https://www.jetbrains.com/help/clion/how-to-create-toolchain-in-clion.html) and follow the instructions provided.
 
-- You should now be ready to start creating projects. 
+- You should now be ready to start `creating projects`. 
   - For sanity, create a new project in any directory you see fit.
   - Name the project whatever you like, say `myProject` for example.
   - Create a new `C++ Executable` using the `C++ 14` language standard (this should be a default)
