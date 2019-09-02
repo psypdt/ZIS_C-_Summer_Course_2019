@@ -80,6 +80,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 
 ## Installing Clion on Windows
+- If you would like to have an application on your computer that allows you to program without an internet connection, then `Clion` is a good choice for both Windows and macOS users. 
 - `Installing the IDE:` Go to [`JetBrains`](https://www.jetbrains.com/clion/) and install Clion
   - Follow the installation guide and just go with the default settings for everything
   
@@ -104,6 +105,8 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
  
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
+  - `Note:` If you are on macOS, download `Xcode` from the `App Store` and then download `Clion` from [`HERE`](https://www.jetbrains.com/clion/)
+    - Once you have done this, you should NOT need any additional software to get `Clion` to work.
   
   ## Windows PowerShell 
   - `Note:` This tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`
