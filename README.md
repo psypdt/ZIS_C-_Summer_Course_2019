@@ -18,11 +18,12 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 ## What to expect from the class dynamic
 - Lots of programming. Learning by programming is one of the best way to further your knowledge (and it's loads of fun).  
 
-- Classes are designed to be interactive. We will work together to find solutions and different ways of approaching a problem.
+- Classes are designed to be interactive. We will work together to find solutions and different ways of approaching a variety of problems.
 
-- Asking questions is by far the best thing to do if something is unclear, so we will always encourage you to ask if you don't understand something.
+- Asking questions is by far the best thing to do if something is unclear! We will always encourage you to ask if you don't understand something.
+  - It's ok to be confused at the start (everyone is) but as we move through the course that confusion will quickly dissapear.
 
-- We want you to engage with eachother so we will give you small problems to solve with your friends. At the end we will explain one way in which the problem could have been solved (there is mostly more than one way, so don't be discouraged if you don't get it the first time around).
+- We want you to engage with eachother, so we will give you small problems to solve with your friends. At the end we will explain one way in which the problem could have been solved (there are more than one way to solve these problems, so don't be discouraged if you don't get it the first time around).
 
 
 
@@ -52,7 +53,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 - If the school supplied you with a laptop then thats all you need.
 
 - If you have a `Mac laptop` or a machine running `Linux/Unix`, feel free to use that instead of the school computer. 
-  - Personaly `I would recommend using the Mac` since you will not be dependent on codeboard.io (but it's up to you)
+  - Personaly `I would recommend using the Mac` and install `Clion` since you will not be dependent on codeboard.io and it's more easily setup on macOS with respect to Windows (but it's up to you, we will most likely do the `Clion` installation together in class)
 
 - If you have a personal `Windows` based computer you can still use it, but you may as well use the school laptops (if they are provided)
 
