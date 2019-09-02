@@ -105,8 +105,8 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
  
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
-  - `Note:` If you are on macOS, download `Xcode` from the `App Store` and then download `Clion` from [`HERE`](https://www.jetbrains.com/clion/)
-    - Once you have done this, you should NOT need any additional software to get `Clion` to work.
+  - `Note:` If you are on macOS, download `Xcode` from the `App Store` and then download `Clion` from [`HERE`](https://www.jetbrains.com/clion/). Once you have done this, you should NOT need any additional software to get `Clion` to work.
+    - If you have completed installing both `Xcode` and `Clion`, go to the `Configuring Clion` section illustrated above and try creating your first project.
   
   ## Windows PowerShell 
   - `Note:` This tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`
