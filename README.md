@@ -137,7 +137,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
      
         - This should yeild `PS C:\Users\you>`, since we have gone out of the `Desktop` directory
       
-  - `./`: This is command that you use to run an executable file (`.exe`). `./` takes the name of the executable as the argument
+  - `./`: This is command that you use to run an executable file (`.exe` on Windows, `.out` on macOS & Linux). `./` takes the name of the executable as the argument
   
       - If you navigate into a directory where you see a `.exe` file, run `./execName.exe` (this is just an example)
       
