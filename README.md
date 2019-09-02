@@ -67,7 +67,9 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 - [`Codeboard.io`](https://codeboard.io) allows us to run code on a server, which is nice since you won't need to install anything on your machine.
 
-- Because we are running programs remotely (not on our own computer) we don't need to worry about things going wrong and crashing on our machine (Severe crashes <b>will never be the case</b> given the content that we will cover).
+- Because we are running programs remotely (not on our own computer) we don't need to worry about things going wrong on our machine (Crashing the Server <b>will NEVER be the case</b> given the content that we will cover).
+
+- The worst thing that can happen is that our program doesn't start, which is hardly a reason for concern.
 
 
 
