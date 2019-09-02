@@ -112,7 +112,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
     - `Note:` You can execute these commands by typing in the command (say `cd` for example), by giving the required arguments (`cd` requires that you give it a folder/directory to move into) and then pressing `Enter` on your keyboard.
     
     - `Note:` DO NOT TYPE OUT THE `PS C:\Users\you>` part, you only need to type the commands specified.
-    - `Simply:` Don't type oute anything that appears before the `>` symbol (don't type the `>` symbol out either, it is there by default). 
+    - `Simply:` Don't type out anything that appears before the `>` symbol (don't type the `>` symbol out either, it is there by default). 
     
   - `ls`: This command will LIST all the directories (folders) in the current directory. `ls` takes NO ARGUMENTS.
     - `PS C:\Users\you> ls` should yield something like:
@@ -123,11 +123,11 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
       d-r---       21/06/2019     14:45                Downloads
       d-r---       21/06/2019     14:45                Favorites
       
-     - `Note:` Your output will probably have a lot more directories, and may look a bit different. Thats fine, this is expected.
+     - `Note:` Your output will probably have a lot more directories, and may look a bit different. Thats fine, this is expected since you probably have different files & folders on your device.
      
   - `cd`: The `cd` command stands for "Change directory". `cd` expects the directory that you want to change to as the argument.
   
-    - If you want to move into the `Desktop` directory, then do `PS C:\Users\you> cd Desktop`. This should yield the following:
+    - If you want to move into the `Desktop` directory, then do `PS C:\Users\you> cd Desktop` (`Note:` you only need to type `cd Desktop`). This should yield the following:
       `PS C:\Users\you\Desktop>`
       
      - If you with to get out of a directory again (say we want to get out of the `Desktop` directory), then just run the following:  `PS C:\Users\you\Desktop> cd ..`
