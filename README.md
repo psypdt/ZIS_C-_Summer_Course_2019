@@ -18,11 +18,12 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 ## What to expect from the class dynamic
 - Lots of programming. Learning by programming is one of the best way to further your knowledge (and it's loads of fun).  
 
-- Classes are designed to be interactive. We will work together to find solutions and different ways of approaching a problem.
+- Classes are designed to be interactive. We will work together to find solutions and different ways of approaching a variety of problems.
 
-- Asking questions is by far the best thing to do if something is unclear, so we will always encourage you to ask if you don't understand something.
+- Asking questions is by far the best thing to do if something is unclear! We will always encourage you to ask if you don't understand something.
+  - It's ok to be confused at the start (everyone is) but as we move through the course that confusion will quickly dissapear.
 
-- We want you to engage with eachother so we will give you small problems to solve with your friends. At the end we will explain one way in which the problem could have been solved (there is mostly more than one way, so don't be discouraged if you don't get it the first time around).
+- We want you to engage with eachother, so we will give you small problems to solve with your friends. At the end we will explain one way in which the problem could have been solved (there are more than one way to solve these problems, so don't be discouraged if you don't get it the first time around).
 
 
 
@@ -52,7 +53,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 - If the school supplied you with a laptop then thats all you need.
 
 - If you have a `Mac laptop` or a machine running `Linux/Unix`, feel free to use that instead of the school computer. 
-  - Personaly `I would recommend using the Mac` since you will not be dependent on codeboard.io (but it's up to you)
+  - Personaly `I would recommend using the Mac` and install `Clion` since you will not be dependent on codeboard.io and it's more easily setup on macOS with respect to Windows (but it's up to you, we will most likely do the `Clion` installation together in class)
 
 - If you have a personal `Windows` based computer you can still use it, but you may as well use the school laptops (if they are provided)
 
@@ -66,7 +67,9 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 - [`Codeboard.io`](https://codeboard.io) allows us to run code on a server, which is nice since you won't need to install anything on your machine.
 
-- Because we are running programs remotely (not on our own computer) we don't need to worry about things going wrong and crashing on our machine (Severe crashes <b>will never be the case</b> given the content that we will cover).
+- Because we are running programs remotely (not on our own computer) we don't need to worry about things going wrong on our machine (Crashing the Server <b>will NEVER be the case</b> given the content that we will cover).
+
+- The worst thing that can happen is that our program doesn't start, which is hardly a reason for concern.
 
 
 
@@ -80,16 +83,17 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 
 
 ## Installing Clion on Windows
+- If you would like to have an application on your computer that allows you to program without an internet connection, then `Clion` is a good choice for both Windows and macOS users. 
 - `Installing the IDE:` Go to [`JetBrains`](https://www.jetbrains.com/clion/) and install Clion
   - Follow the installation guide and just go with the default settings for everything
   
  - `Installing the necessary dependencies:` Visit  [`THIS PAGE`](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MinGW) and follow the `MinGW` section. You may IGNORE ALL OTHER SECTIONS!
  
  - `Configuring Clion`: Once you have installed all the relevant packages (as listed in the instructions), navigate into the `settings` section (accessible by pressing `ctrl+alt+s`)
-  - Navigate into `Build, Execution, Deployment` -> `Toolchains`
-  - Go to [`THIS PAGE`](https://www.jetbrains.com/help/clion/how-to-create-toolchain-in-clion.html) and follow the instructions provided.
+    - Navigate into `Build, Execution, Deployment` -> `Toolchains`
+    - Go to [`THIS PAGE`](https://www.jetbrains.com/help/clion/how-to-create-toolchain-in-clion.html) and follow the instructions provided.
 
-- You should now be ready to start creating projects. 
+- You should now be ready to start `creating projects`. 
   - For sanity, create a new project in any directory you see fit.
   - Name the project whatever you like, say `myProject` for example.
   - Create a new `C++ Executable` using the `C++ 14` language standard (this should be a default)
@@ -104,6 +108,8 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
  
   - Once you have done this you should be able to run the code in the `main.cpp` 
   
+  - `Note:` If you are on macOS, download `Xcode` from the `App Store` and then download `Clion` from [`HERE`](https://www.jetbrains.com/clion/). Once you have done this, you should NOT need any additional software to get `Clion` to work.
+    - If you have completed installing both `Xcode` and `Clion`, go to the `Configuring Clion` section illustrated above and try creating your first project.
   
   ## Windows PowerShell 
   - `Note:` This tanslates to macOS & Linux, only differnce is that instead of `.exe` we use `.out`
@@ -112,7 +118,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
     - `Note:` You can execute these commands by typing in the command (say `cd` for example), by giving the required arguments (`cd` requires that you give it a folder/directory to move into) and then pressing `Enter` on your keyboard.
     
     - `Note:` DO NOT TYPE OUT THE `PS C:\Users\you>` part, you only need to type the commands specified.
-    - `Simply:` Don't type oute anything that appears before the `>` symbol (don't type the `>` symbol out either, it is there by default). 
+    - `Simply:` Don't type out anything that appears before the `>` symbol (don't type the `>` symbol out either, it is there by default). 
     
   - `ls`: This command will LIST all the directories (folders) in the current directory. `ls` takes NO ARGUMENTS.
     - `PS C:\Users\you> ls` should yield something like:
@@ -123,18 +129,18 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
       d-r---       21/06/2019     14:45                Downloads
       d-r---       21/06/2019     14:45                Favorites
       
-     - `Note:` Your output will probably have a lot more directories, and may look a bit different. Thats fine, this is expected.
+     - `Note:` Your output will probably have a lot more directories, and may look a bit different. Thats fine, this is expected since you probably have different files & folders on your device.
      
   - `cd`: The `cd` command stands for "Change directory". `cd` expects the directory that you want to change to as the argument.
   
-    - If you want to move into the `Desktop` directory, then do `PS C:\Users\you> cd Desktop`. This should yield the following:
+    - If you want to move into the `Desktop` directory, then do `PS C:\Users\you> cd Desktop` (`Note:` you only need to type `cd Desktop`). This should yield the following:
       `PS C:\Users\you\Desktop>`
       
      - If you with to get out of a directory again (say we want to get out of the `Desktop` directory), then just run the following:  `PS C:\Users\you\Desktop> cd ..`
      
         - This should yeild `PS C:\Users\you>`, since we have gone out of the `Desktop` directory
       
-  - `./`: This is command that you use to run an executable file (`.exe`). `./` takes the name of the executable as the argument
+  - `./`: This is command that you use to run an executable file (`.exe` on Windows, `.out` on macOS & Linux). `./` takes the name of the executable as the argument
   
       - If you navigate into a directory where you see a `.exe` file, run `./execName.exe` (this is just an example)
       
