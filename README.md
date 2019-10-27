@@ -53,7 +53,7 @@ Hello and welcome to the `ZIS C++ Summer course 2019` resource page. From this p
 - If the school supplied you with a laptop then thats all you need.
 
 - If you have a `Mac laptop` or a machine running `Linux/Unix`, feel free to use that instead of the school computer. 
-  - Personaly `I would recommend using the Mac` and install `Clion` since you will not be dependent on codeboard.io and it's more easily setup on macOS with respect to Windows (but it's up to you, we will most likely do the `Clion` installation together in class)
+  - Personaly `I would recommend using the Mac` and installing `Xcode` (getting `Xcode` will save you a lot of time if you want to also use `Clion`) from the App Store, (you may also download `Clion` if you wish) since you will not be dependent on codeboard.io and it's more easily setup on macOS with respect to Windows (but it's up to you, we will most likely do the `Clion` installation together in class)
 
 - If you have a personal `Windows` based computer you can still use it, but you may as well use the school laptops (if they are provided)
 
